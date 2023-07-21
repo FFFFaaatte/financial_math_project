@@ -1,4 +1,4 @@
-# Article Hedging Simulation with Linear Regressions and Neural Networks
+# Implemantation of Article: Hedging Simulation with Linear Regressions and Neural Networks
 
 ![Project Image](https://cdn.media.amplience.net/i/epammarketplace/hedging?maxW=1200&qlt=80&fmt=jpg&bg=rgb(255,255,255)&version=1689755316226)
 
