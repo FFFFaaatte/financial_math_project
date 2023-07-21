@@ -35,8 +35,3 @@ To run the notebooks and replicate the simulation, follow these steps:
 
 ## Note
 Please note that the simulation results and performance of the models may vary depending on the data used for simulation and the specific configurations of the models.
-
-## License
-Feel free to explore the code and experiment with different settings to gain a deeper understanding of article hedging and the application of machine learning models in finance.
-
-Happy coding! 🚀
