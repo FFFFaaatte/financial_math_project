@@ -1,6 +1,6 @@
 # Article Hedging Simulation with Linear Regressions and Neural Networks
 
-![Project Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolutionshub.epam.com%2Fblog%2Fpost%2Fwhat-is-hedging-in-finance&psig=AOvVaw0VN3gtTsKozGims-F-N1hL&ust=1690050284068000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCpsZG2oIADFQAAAAAdAAAAABAI)
+![Project Image](https://cdn.media.amplience.net/i/epammarketplace/hedging?maxW=1200&qlt=80&fmt=jpg&bg=rgb(255,255,255)&version=1689755316226)
 
 This project is a simulation of article hedging using linear regressions and neural networks. The goal of the simulation is to explore the performance of different hedging strategies and compare the effectiveness of linear regression and neural network models in predicting option prices and minimizing risks.
 
