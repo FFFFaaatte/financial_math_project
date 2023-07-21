@@ -1,0 +1,8 @@
+Random seed = 666
+Normalized price = 100.0
+Training start date = 2019-09-24 00:00:00
+Number of total samples = 592734
+The number of call samples removed from training and validation set, due to threshold = 486
+The number of put samples removed from training and validation set, due to threshold = 12531
+Test start date: = 2019-09-24 00:00:00
+Test end date: = 2019-12-23 00:00:00
