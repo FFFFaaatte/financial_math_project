@@ -14,7 +14,7 @@ The data used, is provided in the "data" folder after running "NB1_Simulate_Data
 
 2. **test_data.csv**: The test data used to evaluate the performance of the models on unseen data.
 
-3. **info_data.txt**: A text file containing additional information about the data, such as feature descriptions and data sources.
+3. **info_data.txt**: A text file containing additional information about the data.
 
 ## Project Notebooks
 The project is organized using Jupyter Notebooks:
