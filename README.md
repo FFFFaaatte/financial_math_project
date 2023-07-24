@@ -29,7 +29,7 @@ The project is organized using Jupyter Notebooks:
 To run the notebooks and replicate the simulation, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Make sure you have Python 3 installed along with the required libraries specified in the `requirements.txt` file.
+2. Make sure you have Python 3 installed along with the required libraries.
 3. Open Jupyter Notebook and navigate to the directory where you cloned the repository.
 4. Run the notebooks in the specified order (NB1_Simulate_Data.ipynb, NB2_Neural_Network.ipynb, NB3_Linear_Regression.ipynb) to reproduce the results.
 
